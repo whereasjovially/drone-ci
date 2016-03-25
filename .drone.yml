@@ -4,4 +4,6 @@ build:
   image: golang
   commands:
     - go run main.go
-
+notify:
+  slack:
+    webhook_url: http://104.196.27.132/hooks/yz5gkzc513bxxcnfzp3ow3y1aw
