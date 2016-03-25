@@ -6,6 +6,6 @@ build:
     - go run main.go
 notify:
   slack:
-    webhook_url: http://104.196.27.132/hooks/yz5gkzc513bxxcnfzp3ow3y1aw
-    channel: Town Square
+    webhook_url: http://104.196.27.132/hooks/o8mzzd4ifjbt7jxiegjwno1uko
+    channel: dev
     username: aaronc
