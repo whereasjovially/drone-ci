@@ -1,3 +1,5 @@
+clone:
+  skip_verify: true
 build:
   image: golang
   commands:
