@@ -7,5 +7,5 @@ build:
 notify:
   slack:
     webhook_url: http://104.196.27.132/hooks/yz5gkzc513bxxcnfzp3ow3y1aw
-    channel: "Town Square"
-    username: drone
+    channel: Town Square
+    username: aaronc
