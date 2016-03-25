@@ -6,8 +6,8 @@ build:
     - go run main.go
 notify:
   slack:
-    webhook_url: http://104.196.27.132/hooks/o8mzzd4ifjbt7jxiegjwno1uko
+    webhook_url: http://mattermost.anywhere.com/hooks/ny39red8ipbwbp7amc9zsihsie
     channel: dev
-    username: aaronc
+    username: drone
 
 
