@@ -4,6 +4,7 @@ build:
   image: golang
   commands:
     - go run main.go
+
 notify:
   slack:
     webhook_url: http://mattermost.anywhere.com/hooks/ny39red8ipbwbp7amc9zsihsie
